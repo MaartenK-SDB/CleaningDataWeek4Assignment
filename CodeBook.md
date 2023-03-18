@@ -20,12 +20,12 @@ This code uses dplyr for managing dataframes.
 7. Column names are changed in the following ways using gsub in order:    
   -std to Std  
   -BodyBody to Body, this was a typographical error in the original columns  
-  -"^t" with Time
-  -Freq with Frequency
-  -"^f" with Frequency 
-  -mean with Mean
-  -Acc with Accelerometer 
-  -Gyro with Gyroscope
-  -Mag with Magnitude
+  -"^t" with Time  
+  -Freq with Frequency  
+  -"^f" with Frequency  
+  -mean with Mean  
+  -Acc with Accelerometer  
+  -Gyro with Gyroscope  
+  -Mag with Magnitude  
   -"\\." with "", this removes the extra .s  
 8. Finally the variables are grouped by subject and activity, and summarized with means. The output table is then generated. 
