@@ -1,10 +1,11 @@
 # Getting and Cleaning Data Course Project
 
 This repository is my submission(MR K) for the Getting and Cleaning Data
-Course Project. The data originates from
+Course Project.  
+The data originates from
 [UCI](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 The researchers attempt to recognize human activities as logged by a
-smartphones (Samsung Galaxy S II) placed on participants waists using
+smartphone (Samsung Galaxy S II) placed on participants waists using
 the phones embedded accelerometer and gyroscope. For further
 information, visit the link above.
 
